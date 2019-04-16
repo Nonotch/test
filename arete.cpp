@@ -18,6 +18,7 @@ void Arete::ajouterVoisin(const Arete* voisin){
  }
 
 //je rajoute encore un commentaire pour souler le monde hehe
+//j'aurai aimer enlever ce commantaire mais je vais juste en ecrire un autre
 
 
 Arete::~Arete()
